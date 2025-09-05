@@ -1,2 +1,2 @@
 # pong-game
-a simple pong game 🏐
+a simple pong game🏐
